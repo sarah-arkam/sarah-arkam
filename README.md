@@ -4,8 +4,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- **Wazuh SIEM Home Lab (in progress):** Setting up Wazuh for log collection/analysis, configuring agents, and documenting alerts/findings.
- **CTF Practice:** Working through beginner TryHackMe/HackTheBox rooms and writing short notes.
+**SIEM Home Lab:**
+Platforms and Technology Used: Wazuh, Ubuntu VM, VMware Workstation Pro, Linux Agent, Windows Agent, Powershell
+
+**CTF Practice:**
+Platforms and Technology Used: Linux CLI, core GNU utilities, SSH, Netcat, Python, Pwntools, HTTP libraries, digital forensics basics, command‑line scripting, data encoding/decoding
+
+**Try HackMe Pre-Security:**
+Platforms and Technology Used: Networking fundamentals, OS fundamentals (Linux/Windows), Security principles, Network security tools, Web protocols, Basic attack techniques, Scripting basics, Security documentation basics
 
 
 
